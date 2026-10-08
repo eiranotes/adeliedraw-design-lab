@@ -90,7 +90,8 @@ function currentOriginal(){
 function masthead(){
   const current=state.page;
   const nav=NAV.map(n=>a(route(n.page,n.page==='shop'?state.lang:null),n.title,
-    '',false).replace('<a ', '<a data-route="'+n.page+'" '+(current===n.page?'aria-current="page" ':'') )).join('');
+    '',false).replace('<a ', '<a data-route="'+n.page+'" '+(current===n.page?'aria-current="page" ':'') )).join('')+
+    a(route('compare'),'Compare / 비교').replace('<a ','<a data-route="compare" '+(current==='compare'?'aria-current="page" ':'') );
   const compare=a(route('compare'),'비교 페이지 →','compare-link',false).replace('<a ','<a data-route="compare" ');
   return '<div class="study-bar"><div class="study-label"><i class="study-dot" aria-hidden="true"></i><strong>DESIGN LAB · 01</strong><span>OPERATIONAL WEBSITE UNCHANGED</span></div>'+
   '<span>별도 배포 · '+a(route('compare'),'원본 / 개선안 비교','',false)+'</span></div>'+

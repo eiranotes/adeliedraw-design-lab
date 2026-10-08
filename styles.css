@@ -237,4 +237,41 @@ h3{font-size:20px}
 .catalog-search input,.catalog-search select{height:38px}
 .catalog-search select{width:103px}
 }
+
+/* Final mobile containment: intrinsic grid sizes must never widen the viewport. */
+@media(max-width:800px){
+  .shell{width:calc(100% - var(--gutter)*2);max-width:calc(100% - var(--gutter)*2);min-width:0}
+  .hero-home,.shop-hero,.page-intro,.app-stage,.compare-grid,.spotlight,.info-history,.browse-grid{
+    grid-template-columns:minmax(0,1fr);min-width:0;max-width:100%;
+  }
+  .browse-link{grid-template-columns:94px minmax(0,1fr)}
+  .compare-card,.compare-intro,.hero-home>*,.shop-hero>*,.app-stage>*,.spotlight>*,
+  .browse-link>*,.compare-links,.collection-grid,.products{min-width:0;max-width:100%;overflow-wrap:anywhere}
+  .compare-links{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .compare-links>a{min-width:0;overflow-wrap:anywhere}
+  .compare-top{flex-wrap:wrap}
+  .hero-home .hero-art img,.shop-hero-photo img{max-width:100%}
+}
+@media(max-width:540px){
+  .study-bar{width:100%;max-width:100%;overflow:hidden}
+  .study-bar>span{display:none}
+  .header-inner{width:100%;max-width:100%;display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:7px}
+  .header-inner .menu-toggle{width:44px;grid-column:1;margin-left:-5px}
+  .header-inner .logo{grid-column:2;min-width:0}
+  .header-inner .logo img{width:min(136px,100%);max-width:100%}
+  .header-actions{grid-column:3;min-width:0}
+  .header-actions .quick-add{white-space:nowrap;font-size:10px;padding-inline:7px}
+  .hero-home,.shop-hero{overflow:hidden}
+  .hero-home .hero-copy,.hero-home .hero-art{width:100%;max-width:100%}
+  .hero-home .copy{max-width:100%;overflow-wrap:anywhere}
+  .shop-hero-copy{display:flex;flex-direction:column;align-items:flex-start;gap:7px}
+  .shop-hero-copy .eyebrow{margin:0}
+  .shop-hero-copy h1{font-size:23px;max-width:100%}
+  .shop-hero-copy .primary-button{min-height:39px}
+  .compare-card{overflow:hidden}
+  .compare-card .compare-links{width:100%}
+  .compare-links a{font-size:11px;padding:7px}
+  .compare-intro,.compare-card p{overflow-wrap:anywhere}
+  .product-bottom{gap:4px;flex-wrap:wrap}
+}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
