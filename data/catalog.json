@@ -1,0 +1,1281 @@
+{
+  "snapshot": "2026-10-07",
+  "count": 85,
+  "products": [
+    {
+      "id": "AD-E8AB9847ED",
+      "category": "sticker",
+      "image": "./assets/products/ad-e8ab9847ed.webp",
+      "name": {
+        "ko": "가드닝 스티커",
+        "en": "Gardening Sticker",
+        "ja": "ガーデニング ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.18,
+        "ja": 348
+      }
+    },
+    {
+      "id": "AD-E03A4040FF",
+      "category": "kisscut",
+      "image": "./assets/products/ad-e03a4040ff.webp",
+      "name": {
+        "ko": "꿈 속 조각들 스테인드글라스 키스컷 테이프",
+        "en": "Fragments of Dreams Stained Glass Kiss-Cut Tape",
+        "ja": "夢のかけら ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-84A88F6228",
+      "category": "kisscut",
+      "image": "./assets/products/ad-84a88f6228.webp",
+      "name": {
+        "ko": "달토끼 춤 스테인드글라스 키스컷 테이프",
+        "en": "Moon Rabbit Dance Stained Glass Kiss-Cut Tape",
+        "ja": "月うさぎのダンス ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-0FB41E4D92",
+      "category": "object",
+      "image": "./assets/products/ad-0fb41e4d92.webp",
+      "name": {
+        "ko": "돌고래 스테인드글라스 아크릴키링",
+        "en": "Dolphin Stained Glass Acrylic Keyring",
+        "ja": "イルカ ステンドグラス アクリルキーホルダー"
+      },
+      "price": {
+        "ko": 6000,
+        "en": 5,
+        "ja": 700
+      }
+    },
+    {
+      "id": "AD-12985ED103",
+      "category": "kisscut",
+      "image": "./assets/products/ad-12985ed103.webp",
+      "name": {
+        "ko": "마이 유니버스 스테인드글라스 키스컷 테이프",
+        "en": "My Universe Stained Glass Kiss-Cut Tape",
+        "ja": "マイユニバース ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-2DF48CF921",
+      "category": "object",
+      "image": "./assets/products/ad-2df48cf921.webp",
+      "name": {
+        "ko": "바다와 아델리 스테인드글라스 아크릴키링",
+        "en": "Sea & Adelie Stained Glass Acrylic Keyring",
+        "ja": "海とアデリー ステンドグラス アクリルキーホルダー"
+      },
+      "price": {
+        "ko": 6000,
+        "en": 5,
+        "ja": 700
+      }
+    },
+    {
+      "id": "AD-216B65E80E",
+      "category": "kisscut",
+      "image": "./assets/products/ad-216b65e80e.webp",
+      "name": {
+        "ko": "보태니컬 스테인드글라스 키스컷테이프",
+        "en": "Botanical Stained Glass Kiss Cut Tape",
+        "ja": "ボタニカルステンドグラスキスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 5.45,
+        "ja": 871
+      }
+    },
+    {
+      "id": "AD-71CF8116A2",
+      "category": "kisscut",
+      "image": "./assets/products/ad-71cf8116a2.webp",
+      "name": {
+        "ko": "우주 유영 스테인드글라스 키스컷 테이프",
+        "en": "Space Drift Stained Glass Kiss-Cut Tape",
+        "ja": "宇宙遊泳 ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-93FD712103",
+      "category": "object",
+      "image": "./assets/products/ad-93fd712103.webp",
+      "name": {
+        "ko": "황제펭귄 스테인드글라스 아크릴키링",
+        "en": "Emperor Penguin Stained Glass Acrylic Keyring",
+        "ja": "コウテイペンギン ステンドグラス アクリルキーホルダー"
+      },
+      "price": {
+        "ko": 6000,
+        "en": 5,
+        "ja": 700
+      }
+    },
+    {
+      "id": "AD-D2D3909D28",
+      "category": "kisscut",
+      "image": "./assets/products/ad-d2d3909d28.webp",
+      "name": {
+        "ko": "연꽃 스테인드 글라스 키스컷 테이프",
+        "en": "Lotus Stained Glass Kiss-Cut Tape",
+        "ja": "蓮の花 ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 5.45,
+        "ja": 871
+      }
+    },
+    {
+      "id": "AD-0D7A003321",
+      "category": "sticker",
+      "image": "./assets/products/ad-0d7a003321.webp",
+      "name": {
+        "ko": "고양이 후르츠 스티커",
+        "en": "Fruit Cat Sticker",
+        "ja": "猫フルーツステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-4E60919B7C",
+      "category": "paper",
+      "image": "./assets/products/ad-4e60919b7c.webp",
+      "name": {
+        "ko": "식빵 여우 메모지",
+        "en": "Bread Fox Memo Pad",
+        "ja": "食パンキツネ メモ帳"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-92A26C935A",
+      "category": "kisscut",
+      "image": "./assets/products/ad-92a26c935a.webp",
+      "name": {
+        "ko": "바다 스테인드 글라스 키스컷 테이프",
+        "en": "Ocean Stained Glass Kiss-Cut Tape",
+        "ja": "海 ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 5.45,
+        "ja": 871
+      }
+    },
+    {
+      "id": "AD-48B8EFD6E8",
+      "category": "sticker",
+      "image": "./assets/products/ad-48b8efd6e8.webp",
+      "name": {
+        "ko": "바다가 보이는 카페 씰스티커",
+        "en": "Ocean View Cafe Seal Sticker",
+        "ja": "海が見えるカフェ シールステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-C26ABB997C",
+      "category": "kisscut",
+      "image": "./assets/products/ad-c26abb997c.webp",
+      "name": {
+        "ko": "바다의 이야기 스테인드 글라스 키스컷 테이프",
+        "en": "Tales of the Sea Stained Glass Kiss-Cut Tape",
+        "ja": "海の物語 ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-F226683FF2",
+      "category": "set",
+      "image": "./assets/products/ad-f226683ff2.webp",
+      "name": {
+        "ko": "시원한 바다 모조지 팩",
+        "en": "Cool Sea Matte Paper Sticker Pack",
+        "ja": "涼しい海 マット紙ステッカーパック"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-KC-0011",
+      "category": "kisscut",
+      "image": "./assets/sale21-photos/ad-kc-0011/01.webp",
+      "name": {
+        "ko": "꽃의 들판 키스컷 테이프",
+        "en": "Flower Field Kiss-Cut Tape",
+        "ja": "花の野原キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-01007EB197",
+      "category": "sticker",
+      "image": "./assets/products/ad-01007eb197.webp",
+      "name": {
+        "ko": "나팔꽃 스티커",
+        "en": "Morning Glory Sticker",
+        "ja": "朝顔ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.18,
+        "ja": 348
+      }
+    },
+    {
+      "id": "AD-ST-0119",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0119/01.webp",
+      "name": {
+        "ko": "벚꽃 토끼 씰스티커",
+        "en": "Cherry Blossom Bunny Seal Sticker",
+        "ja": "桜うさぎシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0034",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0034/01.webp",
+      "name": {
+        "ko": "벚꽃컨페티 씰스티커",
+        "en": "Cherry Blossom Confetti Seal Sticker",
+        "ja": "桜コンフェッティシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0042",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0042/01.webp",
+      "name": {
+        "ko": "베이비 은방울꽃 씰스티커",
+        "en": "Baby Lily of the Valley Seal Sticker",
+        "ja": "ベビーすずらんシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0035",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0035/01.webp",
+      "name": {
+        "ko": "오리와 유채꽃 씰스티커",
+        "en": "Duck and Canola Flower Seal Sticker",
+        "ja": "アヒルと菜の花シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-1CB3951286",
+      "category": "sticker",
+      "image": "./assets/products/ad-1cb3951286.webp",
+      "name": {
+        "ko": "가을 맞이 스티커",
+        "en": "Welcoming Autumn Sticker",
+        "ja": "秋迎えステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-954C384696",
+      "category": "sticker",
+      "image": "./assets/products/ad-954c384696.webp",
+      "name": {
+        "ko": "가을 여우 스티커",
+        "en": "Autumn Fox Sticker",
+        "ja": "秋のキツネ ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-ST-0094",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0094/01.webp",
+      "name": {
+        "ko": "겨울 준비 씰스티커",
+        "en": "Winter Prep Seal Sticker",
+        "ja": "冬支度シールステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-ST-0103",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0103/01.webp",
+      "name": {
+        "ko": "공항에서 스티커",
+        "en": "At the Airport Sticker",
+        "ja": "空港でステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-14CED82D7C",
+      "category": "kisscut",
+      "image": "./assets/products/ad-14ced82d7c.webp",
+      "name": {
+        "ko": "과일 스테인드 글라스 키스컷 테이프",
+        "en": "Fruit Stained Glass Kiss-Cut Tape",
+        "ja": "フルーツステンドグラスキスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-B65EFAC1EF",
+      "category": "paper",
+      "image": "./assets/products/ad-b65efac1ef.webp",
+      "name": {
+        "ko": "그리너리 메모지",
+        "en": "Greenery Memo Pad",
+        "ja": "グリーナリー メモ帳"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-7ABC84E401",
+      "category": "sticker",
+      "image": "./assets/products/ad-7abc84e401.webp",
+      "name": {
+        "ko": "눈송이 요정들의 춤 씰스티커",
+        "en": "Dance of the Snowflake Fairies Seal Sticker",
+        "ja": "雪の結晶の妖精たちのダンス シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 1.82,
+        "ja": 290
+      }
+    },
+    {
+      "id": "AD-ST-0040",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0040/01.webp",
+      "name": {
+        "ko": "다람쥐 씰스티커",
+        "en": "Squirrel Seal Sticker",
+        "ja": "リスシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0093",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0093/01.webp",
+      "name": {
+        "ko": "도시락 씰스티커",
+        "en": "Bento Lunch Box Seal Sticker",
+        "ja": "お弁当シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-A2FBD1AFC8",
+      "category": "sticker",
+      "image": "./assets/products/ad-a2fbd1afc8.webp",
+      "name": {
+        "ko": "두바이 쫀득 토끼 스티커",
+        "en": "Dubai Squishy Bunny Sticker",
+        "ja": "ドバイ もちもち うさぎ ステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 1.82,
+        "ja": 290
+      }
+    },
+    {
+      "id": "AD-3D48A5B2F3",
+      "category": "set",
+      "image": "./assets/products/ad-3d48a5b2f3.webp",
+      "name": {
+        "ko": "따뜻한 봄 모조지 팩",
+        "en": "Warm Spring Matte Paper Sticker Pack",
+        "ja": "あたたかな春 マット紙ステッカーパック"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-ST-0067",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0067/01.webp",
+      "name": {
+        "ko": "딸기 씰스티커",
+        "en": "Strawberry Seal Sticker",
+        "ja": "いちごシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-1CED2C860C",
+      "category": "sticker",
+      "image": "./assets/products/ad-1ced2c860c.webp",
+      "name": {
+        "ko": "딸기밭 고양이 스티커",
+        "en": "Strawberry Field Cat Sticker",
+        "ja": "いちご畑の猫ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-2402244D4B",
+      "category": "sticker",
+      "image": "./assets/products/ad-2402244d4b.webp",
+      "name": {
+        "ko": "뜨개질 시간 씰스티커",
+        "en": "Knitting Time Seal Sticker",
+        "ja": "編み物の時間 シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-8D13343787",
+      "category": "set",
+      "image": "./assets/products/ad-8d13343787.webp",
+      "name": {
+        "ko": "띠부띠부 2000원팩",
+        "en": "Repositionable Sticker Mini Pack (3 Random Designs)",
+        "ja": "貼ってはがせるステッカー ミニパック（ランダム3種）"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.75,
+        "ja": 250
+      }
+    },
+    {
+      "id": "AD-C5A2781B78",
+      "category": "set",
+      "image": "./assets/products/ad-c5a2781b78.webp",
+      "name": {
+        "ko": "띠부띠부 올인원팩",
+        "en": "Repositionable Sticker All-in-One Pack",
+        "ja": "貼ってはがせるステッカー オールインワンパック"
+      },
+      "price": {
+        "ko": 17000,
+        "en": 13.5,
+        "ja": 2000
+      }
+    },
+    {
+      "id": "AD-308719163C",
+      "category": "sticker",
+      "image": "./assets/products/ad-308719163c.webp",
+      "name": {
+        "ko": "라즈베리 스티커",
+        "en": "Raspberry Sticker",
+        "ja": "ラズベリー ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-ST-0002",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0002/01.webp",
+      "name": {
+        "ko": "랫서팬더 씰스티커",
+        "en": "Red Panda Seal Sticker",
+        "ja": "レッサーパンダシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-7690FA9111",
+      "category": "sticker",
+      "image": "./assets/products/ad-7690fa9111.webp",
+      "name": {
+        "ko": "레몬 파운드 케이크 씰스티커",
+        "en": "Lemon Pound Cake Seal Sticker",
+        "ja": "レモンパウンドケーキ シールステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-ST-0116",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0116/01.webp",
+      "name": {
+        "ko": "루비노 앵무 스티커",
+        "en": "Rubino Parrot Sticker",
+        "ja": "ルビノーインコステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-C8A69F2A7B",
+      "category": "sticker",
+      "image": "./assets/products/ad-c8a69f2a7b.webp",
+      "name": {
+        "ko": "물망초 컨페티 스티커",
+        "en": "Forget-Me-Not Confetti Sticker",
+        "ja": "ワスレナグサ コンフェッティステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-380D780412",
+      "category": "sticker",
+      "image": "./assets/products/ad-380d780412.webp",
+      "name": {
+        "ko": "바구니 오리 씰스티커",
+        "en": "Basket Duck Seal Sticker",
+        "ja": "バスケットアヒルシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-KC-0010",
+      "category": "kisscut",
+      "image": "./assets/sale21-photos/ad-kc-0010/01.webp",
+      "name": {
+        "ko": "반짝이는 호수 키스컷 테이프",
+        "en": "Sparkling Lake Kiss-Cut Tape",
+        "ja": "きらめく湖キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-6BE0A9B6E2",
+      "category": "paper",
+      "image": "./assets/products/ad-6be0a9b6e2.webp",
+      "name": {
+        "ko": "별 유영 메모지",
+        "en": "Swimming Star Notepad",
+        "ja": "星の遊泳 メモ帳"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-91EFD2BB38",
+      "category": "sticker",
+      "image": "./assets/products/ad-91efd2bb38.webp",
+      "name": {
+        "ko": "별이 떨어지는 곳에 스티커",
+        "en": "Where the Stars Fall Sticker",
+        "ja": "星が降る場所ステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0117",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0117/01.webp",
+      "name": {
+        "ko": "보들 강아지 씰스티커",
+        "en": "Fluffy Puppy Seal Sticker",
+        "ja": "ふわふわ子犬シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0118",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0118/01.webp",
+      "name": {
+        "ko": "봄 노래 스티커",
+        "en": "Spring Song Stickers",
+        "ja": "春の歌ステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-2439201D69",
+      "category": "sticker",
+      "image": "./assets/products/ad-2439201d69.webp",
+      "name": {
+        "ko": "비 오는 날의 손님 스티커",
+        "en": "Rainy Day Guest Sticker",
+        "ja": "雨の日のゲスト ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-225E71700A",
+      "category": "sticker",
+      "image": "./assets/products/ad-225e71700a.webp",
+      "name": {
+        "ko": "새해의 붉은 말 스티커",
+        "en": "New Year's Red Horse Sticker",
+        "ja": "新年の赤い馬ステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 1.82,
+        "ja": 290
+      }
+    },
+    {
+      "id": "AD-KC-0009",
+      "category": "kisscut",
+      "image": "./assets/sale21-photos/ad-kc-0009/01.webp",
+      "name": {
+        "ko": "선물 공방 요정들 키스컷 테이프",
+        "en": "Gift Workshop Fairies Kiss-Cut Tape",
+        "ja": "プレゼント工房の妖精たちキスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-3D9538DE28",
+      "category": "sticker",
+      "image": "./assets/products/ad-3d9538de28.webp",
+      "name": {
+        "ko": "선물 토끼 스티커",
+        "en": "Gift Bunny Sticker",
+        "ja": "プレゼントうさぎ ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-7D9AC39329",
+      "category": "paper",
+      "image": "./assets/products/ad-7d9ac39329.webp",
+      "name": {
+        "ko": "소금빵 메모지 v1",
+        "en": "Salt Bread Memo Pad V1",
+        "ja": "塩パン メモ帳 V1"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0156",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0156/01.webp",
+      "name": {
+        "ko": "수선화 들판 스티커",
+        "en": "Daffodil Field Sticker",
+        "ja": "水仙畑ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-99670D588D",
+      "category": "tape",
+      "image": "./assets/products/ad-99670d588d.webp",
+      "name": {
+        "ko": "스노우 헌팅 은박 마스킹테이프",
+        "en": "Snow Hunting Silver Foil Masking Tape",
+        "ja": "スノーハンティング 銀箔マスキングテープ"
+      },
+      "price": {
+        "ko": 5500,
+        "en": 4.5,
+        "ja": 650
+      }
+    },
+    {
+      "id": "AD-37A237F197",
+      "category": "set",
+      "image": "./assets/products/ad-37a237f197.webp",
+      "name": {
+        "ko": "싱그러운 여름 모조지팩",
+        "en": "Fresh Summer Matte Paper Sticker Pack",
+        "ja": "みずみずしい夏 マット紙ステッカーパック"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-DD2DD2D7ED",
+      "category": "sticker",
+      "image": "./assets/products/ad-dd2dd2d7ed.webp",
+      "name": {
+        "ko": "아기 오리들과 나들이 스티커",
+        "en": "Baby Ducklings Outing Stickers",
+        "ja": "子アヒルたちとお出かけステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0072",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0072/01.webp",
+      "name": {
+        "ko": "아늑한 방 씰스티커",
+        "en": "Cozy Room Seal Sticker",
+        "ja": "居心地の良いお部屋シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-10C0DA676E",
+      "category": "sticker",
+      "image": "./assets/products/ad-10c0da676e.webp",
+      "name": {
+        "ko": "에코백 토끼 스티커",
+        "en": "Tote Bag Bunny Sticker",
+        "ja": "エコバッグうさぎ ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-BE303BDA24",
+      "category": "sticker",
+      "image": "./assets/products/ad-be303bda24.webp",
+      "name": {
+        "ko": "여름 피크닉 스티커",
+        "en": "Summer Picnic Sticker",
+        "ja": "夏ピクニックステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-2563AC6E42",
+      "category": "sticker",
+      "image": "./assets/products/ad-2563ac6e42.webp",
+      "name": {
+        "ko": "여우 허그 스티커",
+        "en": "Fox Hug Sticker",
+        "ja": "キツネハグステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-D33BC47A89",
+      "category": "sticker",
+      "image": "./assets/products/ad-d33bc47a89.webp",
+      "name": {
+        "ko": "오리 쿠키 씰스티커",
+        "en": "Duck Cookie Seal Sticker",
+        "ja": "アヒルクッキーシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 1.82,
+        "ja": 290
+      }
+    },
+    {
+      "id": "AD-C10181F2F9",
+      "category": "paper",
+      "image": "./assets/products/ad-c10181f2f9.webp",
+      "name": {
+        "ko": "우리가 사랑하는 것 엽서",
+        "en": "Things We Love Postcard",
+        "ja": "私たちが愛するもの ポストカード"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-ST-0025",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0025/01.webp",
+      "name": {
+        "ko": "우산과 고양이 씰스티커",
+        "en": "Umbrella and Cat Seal Sticker",
+        "ja": "傘と猫シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-F41A8D8803",
+      "category": "sticker",
+      "image": "./assets/products/ad-f41a8d8803.webp",
+      "name": {
+        "ko": "이 계절을 따뜻하게 스티커",
+        "en": "Warm This Season Sticker",
+        "ja": "この季節を温めるステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-0987EA765C",
+      "category": "sticker",
+      "image": "./assets/products/ad-0987ea765c.webp",
+      "name": {
+        "ko": "장미 토끼 씰스티커",
+        "en": "Rose Bunny Seal Sticker",
+        "ja": "薔薇うさぎシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-D53A04F258",
+      "category": "set",
+      "image": "./assets/products/ad-d53a04f258.webp",
+      "name": {
+        "ko": "정원 그늘 모조지 스티커팩",
+        "en": "Garden Shade Matte Paper Sticker Pack",
+        "ja": "庭の木陰 マット紙ステッカーパック"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-E35E63A1C5",
+      "category": "kisscut",
+      "image": "./assets/products/ad-e35e63a1c5.webp",
+      "name": {
+        "ko": "제비와 아이리스 스테인드 글라스 키스컷 테이프",
+        "en": "Swallow and Iris Stained Glass Kiss-Cut Tape",
+        "ja": "ツバメとアイリス ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7000,
+        "en": 5.75,
+        "ja": 850
+      }
+    },
+    {
+      "id": "AD-67A410B2ED",
+      "category": "sticker",
+      "image": "./assets/products/ad-67a410b2ed.webp",
+      "name": {
+        "ko": "체크 펭귄 카드커버 스티커",
+        "en": "Check Penguin Card Cover Sticker",
+        "ja": "チェックペンギン カードカバーステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.18,
+        "ja": 348
+      }
+    },
+    {
+      "id": "AD-193C09E0D8",
+      "category": "paper",
+      "image": "./assets/products/ad-193c09e0d8.webp",
+      "name": {
+        "ko": "카레 도시락 메모지",
+        "en": "Curry Lunch Box Memo Pad",
+        "ja": "カレー弁当メモ帳"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-EAD7394C6B",
+      "category": "sticker",
+      "image": "./assets/products/ad-ead7394c6b.webp",
+      "name": {
+        "ko": "클로버와 토끼 스티커",
+        "en": "Clover and Rabbit Sticker",
+        "ja": "クローバーとウサギのステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-ST-0052",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0052/01.webp",
+      "name": {
+        "ko": "토끼 씰스티커",
+        "en": "Bunny Seal Sticker",
+        "ja": "うさぎシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-DB040A371B",
+      "category": "kisscut",
+      "image": "./assets/products/ad-db040a371b.webp",
+      "name": {
+        "ko": "트로피컬 스테인드 글라스 키스컷 테이프",
+        "en": "Tropical Stained Glass Kiss-Cut Tape",
+        "ja": "トロピカル ステンドグラス キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-8811E7F898",
+      "category": "set",
+      "image": "./assets/products/ad-8811e7f898.webp",
+      "name": {
+        "ko": "파장 모조지 팩",
+        "en": "Wavelength Matte Paper Sticker Pack",
+        "ja": "波長 マット紙ステッカーパック"
+      },
+      "price": {
+        "ko": 2000,
+        "en": 1.45,
+        "ja": 232
+      }
+    },
+    {
+      "id": "AD-BDB79054F3",
+      "category": "kisscut",
+      "image": "./assets/products/ad-bdb79054f3.webp",
+      "name": {
+        "ko": "펭귄 친구들 키스컷 테이프",
+        "en": "Penguin Friends Kiss-Cut Tape",
+        "ja": "ペンギンフレンズ キスカットテープ"
+      },
+      "price": {
+        "ko": 7500,
+        "en": 6,
+        "ja": 900
+      }
+    },
+    {
+      "id": "AD-528790890C",
+      "category": "sticker",
+      "image": "./assets/products/ad-528790890c.webp",
+      "name": {
+        "ko": "펭귄 호텔에 어서오세요 씰스티커",
+        "en": "Welcome to Penguin Hotel Seal Sticker",
+        "ja": "ペンギンホテルへようこそ シールステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-9F6BACDE3B",
+      "category": "sticker",
+      "image": "./assets/products/ad-9f6bacde3b.webp",
+      "name": {
+        "ko": "포옹 여우 카드커버 스티커",
+        "en": "Hugging Fox Card Cover Sticker",
+        "ja": "ハグするキツネ カードカバーステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.18,
+        "ja": 348
+      }
+    },
+    {
+      "id": "AD-C803B70AE5",
+      "category": "paper",
+      "image": "./assets/products/ad-c803b70ae5.webp",
+      "name": {
+        "ko": "푸딩 메모지",
+        "en": "Pudding Memo Pad",
+        "ja": "プリン メモ帳"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-FC7B3E587F",
+      "category": "sticker",
+      "image": "./assets/products/ad-fc7b3e587f.webp",
+      "name": {
+        "ko": "푸딩 스티커",
+        "en": "Pudding Sticker",
+        "ja": "プリンステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-96AF1DA5D8",
+      "category": "sticker",
+      "image": "./assets/products/ad-96af1da5d8.webp",
+      "name": {
+        "ko": "푸른 수국 스티커",
+        "en": "Blue Hydrangea Sticker",
+        "ja": "青い紫陽花ステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-20DC5A6F24",
+      "category": "sticker",
+      "image": "./assets/products/ad-20dc5a6f24.webp",
+      "name": {
+        "ko": "플룻과 장미 정원 스티커",
+        "en": "Flute and Rose Garden Sticker",
+        "ja": "フルートとバラの庭ステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-ST-0049",
+      "category": "sticker",
+      "image": "./assets/sale21-photos/ad-st-0049/01.webp",
+      "name": {
+        "ko": "호텔 씰스티커",
+        "en": "Hotel Seal Sticker",
+        "ja": "ホテルシールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    },
+    {
+      "id": "AD-164DD0F57C",
+      "category": "sticker",
+      "image": "./assets/products/ad-164dd0f57c.webp",
+      "name": {
+        "ko": "홈스윗홈 씰스티커",
+        "en": "Home Sweet Home Seal Sticker",
+        "ja": "ホームスイートホーム シールステッカー"
+      },
+      "price": {
+        "ko": 3000,
+        "en": 2.5,
+        "ja": 350
+      }
+    },
+    {
+      "id": "AD-3BC3B8A2CE",
+      "category": "sticker",
+      "image": "./assets/products/ad-3bc3b8a2ce.webp",
+      "name": {
+        "ko": "회색 태비 씰스티커",
+        "en": "Gray Tabby Seal Sticker",
+        "ja": "グレータビー シールステッカー"
+      },
+      "price": {
+        "ko": 2500,
+        "en": 2,
+        "ja": 300
+      }
+    }
+  ]
+}
